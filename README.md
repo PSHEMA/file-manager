@@ -146,7 +146,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributors
 
-- **MAWIA Katiwa** (GitHub: [@mkatiwa](hhttps://github.com/mkatiwa))
+- **MAWIA Katiwa** (GitHub: [@mkatiwa](https://github.com/mkatiwa))
 - **SHEMA Placide** (GitHub: [@PSHEMA](https://github.com/PSHEMA))
 
 ---
