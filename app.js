@@ -8,11 +8,11 @@ dotenv.config();
 
 const app = express();
 
-// middleware
+// Middleware
 app.use(express.json());
 app.use(middleware);
 
-// routes
+// Routes
 app.use('/auth', authroutes);
 app.use('/files', fileRoutes);
 
